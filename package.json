@@ -24,7 +24,7 @@
     "react-native-camera": "1.0.1",
     "react-native-fs": "^2.16.6",
     "react-native-unimodules": "^0.7.0",
-    "react-native-windows": "^0.57.2",
+    "react-native-windows": "^0.70.3",
     "typescript": "^3.8.3"
   },
   "devDependencies": {
